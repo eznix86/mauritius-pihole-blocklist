@@ -1,0 +1,6 @@
+0.0.0.0 banner.bet365partners.com
+0.0.0.0 bet365partners.com
+0.0.0.0 revive-adserver.net
+0.0.0.0 servedby.revive-adserver.net
+0.0.0.0 cdn.revive-adserver.net
+0.0.0.0 adserve.lasentinelle.mu
