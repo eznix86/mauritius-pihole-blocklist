@@ -4,3 +4,5 @@
 0.0.0.0 servedby.revive-adserver.net
 0.0.0.0 cdn.revive-adserver.net
 0.0.0.0 adserve.lasentinelle.mu
+0.0.0.0 static.digitalgo.click
+0.0.0.0 static.digitalgo.click
